@@ -26,7 +26,12 @@ Sempre que a previsão for de chuvas torrenciais com possibilidade de enchentes 
  SP Sempre Alerta
  <br />
  <a href="https://www.spsemprealerta.sp.gov.br"> 
- 
+  <txt
+  src="https://www.spsemprealerta.sp.gov.br"
+  alt="SP Sempre Alerta"
+  width="200"
+/>
+  
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
