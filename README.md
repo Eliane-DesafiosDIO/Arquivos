@@ -39,6 +39,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 Eliane Takimoto Albernaz (2025)
 
 ## Referências
-- Microsoft Copilot: prompts atualizados e compilados em 04/03/2025
+- Microsoft Copilot: prompts atualizados e compilados em 06/03/2025
 - https://pkg.go.dev/github.com/briandowns/openweathermap
 - https://www.spsemprealerta.sp.gov.br/
