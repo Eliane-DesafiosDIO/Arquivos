@@ -10,13 +10,13 @@
 Página de Previsão do Tempo para São Paulo com Alerta de Tempestades
 
 ## Visão Geral do Projeto
-Este projeto tem como objetivo criar uma página de previsão do tempo especificamente para a cidade de São Paulo. O foco principal é fornecer informações precisas e oportunas sobre previsões de chuvas torrenciais e a possibilidade de enchentes. O objetivo é convencer os usuários a permanecerem em um local seguro quando condições climáticas severas forem esperadas.
+Este projeto tem como objetivo criar uma página de previsão do tempo especificamente para a cidade de São Paulo cujo foco principal é fornecer informações precisas e oportunas sobre previsões de chuvas torrenciais e a possibilidade de enchentes. O objetivo é convencer os usuários a permanecerem em um local seguro quando condições climáticas severas forem esperadas.
 
 ## Funcionalidades
 - **Atualizações em Tempo Real**: Obtenha as últimas atualizações do tempo para São Paulo.
 - **Alertas de Chuvas Torrenciais**: Destaque para previsões de chuvas fortes para alertar os usuários.
-- **Avisos de Enchentes**: Forneça informações sobre a possibilidade de enchentes.
-- **Dicas de Segurança**: Ofereça conselhos sobre como se manter seguro durante condições climáticas severas.
+- **Avisos de Enchentes**: Receba informações sobre a possibilidade de enchentes.
+- **Dicas de Segurança**: Conselhos sobre como se manter seguro durante condições climáticas severas.
 - **Interface Amigável**: Interface fácil de navegar com informações claras e concisas.
 
 ## Regras Especiais
