@@ -36,7 +36,7 @@ Sempre que a previsão for de chuvas torrenciais com possibilidade de enchentes 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Copyright
-Eliane Takimoto Albernaz (2025)
+©️Eliane Takimoto Albernaz (2025)
 
 ## Referências
 - Microsoft Copilot: prompts atualizados e compilados em 06/03/2025
