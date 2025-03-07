@@ -1,7 +1,7 @@
 <h1 align="center">
  <br />
  <img
-  src="./https://github.com/Eliane-DesafiosDIO/Arquivos/blob/main/Defesa%20Civil%20Jun%C3%A7%C3%A3o.jpg"
+  src="https://github.com/Eliane-DesafiosDIO/Arquivos/blob/main/Defesa%20Civil%20Jun%C3%A7%C3%A3o.jpg"
   alt="Previsão do Tempo: Fique informado e seguro"
   width="300"
 />
