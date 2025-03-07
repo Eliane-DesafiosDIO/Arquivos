@@ -1,7 +1,7 @@
 <h1 align="center">
  <br />
  <img
-  src="./"C:/Users/c050772/OneDrive - Caixa Economica Federal/Área de Trabalho/Pasta de Transferência de Arquivos\IA Generativa/Project_API/Asset_Image.png"
+  src="./C:/Users/c050772/OneDrive - Caixa Economica Federal/Área de Trabalho/Pasta de Transferência de Arquivos\IA Generativa/Project_API/Asset_Image.png"
   alt="Previsão do Tempo: Fique informado e seguro"
   width="300"
 />
