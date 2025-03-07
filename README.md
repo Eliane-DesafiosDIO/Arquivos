@@ -20,4 +20,20 @@ Este projeto tem como objetivo criar uma página de previsão do tempo especific
 - **Interface Amigável**: Interface fácil de navegar com informações claras e concisas.
 
 ## Regras Especiais
-Sempre que a previsão for de chuvas torrenciais com possibilidade de enchentes e alagamento, o alerta deve ser um hyperlink para a página oficial da Defesa Civil da cidade de São Paulo: Home - SP Sempre Alerta de modo que o usuário possa adotar as atitudes necessárias para prevenção de acidentes e preservação da vida.
+Sempre que a previsão for de chuvas torrenciais com possibilidade de enchentes e alagamento, o alerta deve ser um hyperlink para a página oficial da Defesa Civil da cidade de São Paulo de modo que o usuário possa adotar as atitudes necessárias para prevenção de acidentes e preservação da vida.
+
+<p align="center"
+SP Sempre Alerta
+<br />
+<a href="https://www.spsemprealerta.sp.gov.br/"> 
+
+## Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## Copyright
+Eliane Takimoto Albernaz (2025)
+
+## Referências
+Microsoft Copilot: prompts atualizados e compilados em 04/03/2025
+https://pkg.go.dev/github.com/briandowns/openweathermap
+https://www.spsemprealerta.sp.gov.br/
