@@ -6,6 +6,7 @@
   width="300"
 />
 
+<h1 align="center">
 # Página de Previsão do Tempo para São Paulo com Alerta de Tempestades
 
 ## Visão Geral do Projeto
