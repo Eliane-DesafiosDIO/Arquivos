@@ -27,6 +27,7 @@ Sempre que a previsão for de chuvas torrenciais com possibilidade de enchentes 
  <br />
  <a href="https://www.spsemprealerta.sp.gov.br"> 
   <img
+  src="https://www.spsemprealerta.sp.gov.br"
   alt="SP Sempre Alerta"
   width="200"
 />
